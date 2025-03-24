@@ -134,3 +134,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Tauri-specific files
+src-tauri/target/
+src-tauri/.cargo-lock
+src-tauri/tauri-build.log
