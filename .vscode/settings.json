@@ -1,0 +1,20 @@
+{
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#6b1eaa",
+        "titleBar.activeForeground": "#000000",
+        "titleBar.inactiveBackground": "#6b1eaa",
+        "titleBar.inactiveForeground": "#000000",
+        "titleBar.border": "#6b1eaa",
+        "activityBar.background": "#6b1eaa",
+        "activityBar.foreground": "#000000",
+        "statusBar.background": "#6b1eaa",
+        "statusBar.foreground": "#000000",
+        "statusBar.debuggingBackground": "#6b1eaa",
+        "statusBar.debuggingForeground": "#000000",
+        "tab.activeBorder": "#6b1eaa",
+        "iLoveWorkSpaceColors": true,
+        "iLoveWorkSpaceRandom": false
+    }
+    ,
+    "vscode-toggle-terminal.alignment": "right"
+}
